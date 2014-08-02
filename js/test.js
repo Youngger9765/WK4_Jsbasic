@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 var firstVar = {
 		name: "123",
 		fs: funciton(data){
@@ -22,7 +21,7 @@ var firstfun1 = new firstfunc();
 var glasses = new function(){
 		this.size=20;
 		}
-=======
+
 var firstVar = {
 		name: "123",
 		fs: funciton(data){
@@ -46,5 +45,4 @@ var firstfun1 = new firstfunc();
 var glasses = new function(){
 		this.size=20;
 		}
->>>>>>> 943763c3709c41ce8287cc51cb0bcee742cd81a9
 		console.log(glasses.size);
